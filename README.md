@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="400" height="320" />
 
 [linkedin]: https://www.linkedin.com/in/seherzeynepbastug/
 
@@ -13,4 +13,4 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️, skate ⛸️, play volleyball 🏐 and cycling 🚴‍♀️
 - 🥅 2021 Goals: Publishing my Recipe Application on App Store 📱
 
-https://github.com/saadeghi/saadeghi/blob/master/dino.gif
+
