@@ -9,7 +9,8 @@
 
 ### - 🌱 I’m currently developing Mobile Applications on iOS platform 📱
 - I'm an Electrical Electronics Engineering graduate 👨‍🎓, iOS Developer 🚀, System Test Engineer ✍ !
-- 📫 How to reach me: [gmail]: mailto:zeybastug@gmail.com
+- 📫 How to reach me:
+  [gmail]: mailto:zeybastug@gmail.com
 - ⚡ Fun fact: I love to swim 🏊‍♀️, skate ⛸️, play volleyball 🏐 and cycling 🚴‍♀️
 - 🥅 2021 Goals: Publishing my Recipe Application on App Store 📱
 
