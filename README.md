@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**zeybastug/zeybastug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+zeybastug/zeybastug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ## I'm an Electrical Electronics Engineering graduate 👨‍🎓, iOS Developer 🚀, System Test Engineer ✍ !
